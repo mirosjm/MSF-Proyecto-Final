@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Dinámica y control del eje endocrino en el síndrome de
+  Cushing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Miroslava
+    family-names: Jacobo Mendoza
+    email: l21212669@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+  - given-names: Edgar Iván
+    family-names: Rivas Rosas
+    email: l21212748@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: 'https://github.com/IvansilloRivas/MSF-Proyecto-Final'
+keywords:
+  - Sistema Endocrino
+  - Controlador PID
+  - Circuito RLC
+  - Sídrome de Cushing
+  - Cortisol
+  - Ecuación de transferencia
+license: BSD-2-Clause
+date-released: '2025-05-23'
