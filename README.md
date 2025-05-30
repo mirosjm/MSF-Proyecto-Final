@@ -1,9 +1,10 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mirosjm/MSF-ProyectoFinal)
 
-# Modelado de Sistemas Fisiológicos. Práctica final: Dinámica y Control del Eje Endocrino en el Síndrome de Cushing [Jacobo21212669]
+# Modelado de Sistemas Fisiológicos. Práctica final: Dinámica y Control del Eje Endocrino en el Síndrome de Cushing [Jacobo21212669] [Rivas21212748]
 
 ## Autor
 Miroslava Jacobo Mendoza
+Edgar Iván Rivas Rosas
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212669@tectijuana.edu.mx
 
