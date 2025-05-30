@@ -6,7 +6,7 @@
 Miroslava Jacobo Mendoza
 Edgar Iván Rivas Rosas
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212669@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212669@tectijuana.edu.mx l21212748@tectijuana.edu.mx
 
 ## Objetivos general
 Diseñar un controlador que permita formular un protocolo de tratamiento para controlar los niveles de cortisol en un paciente con síndrome de Cushing.
